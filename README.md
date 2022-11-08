@@ -1,6 +1,6 @@
-![music_recommender.jpeg](images/music_recommender.jpeg)
+![music_recommendation.jpeg](images/music_recommendation.jpeg)
 
-# Coolest music recommender out there!
+# Coolest music recommendation engine out there!
 
 I built a music recommender engine using an unsupervised machine learning technique. Run the **3_Clustering_and_the_song_recommender.ipynb** file and input your favorite songs as prompted. The recommender will give out equally cool music suggestions for you to enjoy. Do not pass on without trying -you'll be surprised at the taste of this 'engine'!
 
