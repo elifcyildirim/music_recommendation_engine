@@ -13,7 +13,7 @@ In this project, I levereged machine learning to built a music recommender. In *
    
 - **1_Scraping_the_music_websites.ipynb.** This notebook scrapes two different websites to achieve a dataframe of top 200 songs.
 - **2_Spotify_API.ipynb.** In this notebook, I use the spotify API to scrape data from multiple spotify playlists. By doing this, I create a dataframe of Over 16000 songs.
-- **3_Clustering_and_the_song_recommender.ipynb.** You can run this notebook to enjoy your song recommendations.
+- **3_Clustering_and_the_song_recommender.ipynb.** You can run this notebook to enjoy some tasteful music recommendations.
 
 ## Tools
 
