@@ -1,8 +1,8 @@
 ![music_recommendation.jpeg](images/music_recommendation.jpeg)
 
-# Coolest music recommendation engine out there!
+# Coolest music recommendations out there!
 
-In this project, I levereged machine learning to built a music recommender. In **3_Clustering_and_the_song_recommender.ipynb**, the user is prompted to input one of their favorite songs. Upon this input, the recommender will employ a clustering algorithm to give out an equally cool music suggestion for the user to enjoy.
+In this project, I levereged machine learning to built a music recommendation engine. In **3_Clustering_and_the_song_recommender.ipynb**, the user is prompted to input one of their favorite songs. Upon this input, the recommender will employ a clustering algorithm to give out an equally cool music suggestion for the user to enjoy.
 
 ## Data
 
